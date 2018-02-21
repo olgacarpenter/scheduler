@@ -1,10 +1,10 @@
 # scheduler
 
 ## Requirements
-Nodejs
-npm
+* Nodejs
+* npm
 
 ## Install/Run
-git clone https://github.com/olgacarpenter/scheduler
-npm install
-npm start
+* git clone https://github.com/olgacarpenter/scheduler
+* npm install
+* npm start

@@ -1,0 +1,17 @@
+header {
+    height: 100px;
+    background-color: #1E88E5;
+    color: #ffffff;
+    div.container {
+        height: 100%;
+        font-size: 28px;
+        line-height: 100px;
+    }
+}
+main {
+    box-shadow: inset 0px 5px 6px -3px rgba(0, 0, 0, 0.4);
+    div.container {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+}
